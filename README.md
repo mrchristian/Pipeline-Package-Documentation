@@ -20,7 +20,7 @@ Multi-format CSS styles and samples.
 
   - Report Style: Report001 and Report002 - the style is designed for short guides, policy reports, reports, guidance, etc. - [Report001 Repo](https://github.com/mrchristian/Fidus-Book-Style-Report001) - Preview: [Quick Start Guide – A Publishing Pipeline EN](https://mrchristian.github.io/guide-en/)| [Report002 Repo](https://github.com/mrchristian/Fidus-Book-Style-Report002) 
   - Manual Style: Manual001 - designed for manuals and textbooks, etc. - [Repo](https://github.com/mrchristian/Manual001-Fidus-Style) | [Preview](https://mrchristian.github.io/Manual001-Fidus-Style/)
-  - Newsletter Style (Fidus Writer Document style) - designed for a two colum layout taregtted at PDF and Paginated Web - [Repo](https://github.com/mrchristian/newsletter-document-style) | Preview: [Paginated Web (CSS Typesetting)](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/newsletter-document-style/main/sample-outputs/frankfurter-infektinfo.html/document.html)
+  - Newsletter Style (Fidus Writer Document style) - designed for a two column layout taregtted at PDF and Paginated Web - [Repo](https://github.com/mrchristian/newsletter-document-style) | [Preview: Paginated Web (CSS Typesetting)(https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/newsletter-document-style/main/sample-outputs/frankfurter-infektinfo.html/document.html)
   
 ### Style resources
 
@@ -32,11 +32,11 @@ The Git Repo Templates are needed as a base to output publication into from Fidu
 
 Language variations are needed because of small language specific elements in Docsify
 
-  - Report Style Git Template EN - Repo 
-  - Report style Git Template DE - Repo 
+  - Report Style Git Template EN - [Repo](https://github.com/mrchristian/report-style-git-template-EN) 
+  - Report style Git Template DE - [Repo](https://github.com/mrchristian/report-style-git-template-DE) 
   
-  - Manual Style Git Template EN - Repo 
-  - Manual Style Git Template DE - Repo
+  - Manual Style Git Template EN - [Repo](https://github.com/mrchristian/Manual-Style-Git-Template-EN)
+  - Manual Style Git Template DE - [Repo](https://github.com/mrchristian/Manual-Style-Git-Template-DE)
 
 ## About the Pipeline 
 
